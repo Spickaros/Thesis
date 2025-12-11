@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1053096509048",
+    "project_id": "eshop-kotlin",
+    "storage_bucket": "eshop-kotlin.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053096509048:android:8fbf569fab8764593bf78d",
+        "android_client_info": {
+          "package_name": "com.example.eshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANJJNq5xD0SaP3wdRCxQ2FxxsXqVIv730"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
