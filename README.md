@@ -6,17 +6,13 @@ This thesis focuses on the development of mobile applications using popular tech
 
 ---
 
-## Technologies Used | Τεχνολογίες
+## Technologies | Τεχνολογίες
 
-**EN:**
+
 - Kotlin
 - Flutter
 - React Native
 
-**GR:**
-- Kotlin
-- Flutter
-- React Native
 
 ---
 
