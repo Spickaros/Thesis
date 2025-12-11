@@ -1,3 +1,6 @@
+# Thesis: Comparative Evaluation of Mobile Development Technologies  
+# Διπλωματική Εργασία: Συγκριτική Αξιολόγηση Τεχνολογιών Ανάπτυξης Κινητών Εφαρμογών
+
 **EN:**  
 This thesis focuses on the development of mobile applications using popular technologies such as Kotlin, Flutter, and React Native. It provides a comparative evaluation by implementing example applications covering common features like games, API integration, and database connectivity. Performance measurements (CPU, memory, battery usage) and developer experience are also taken into account.
 
